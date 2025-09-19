@@ -34,7 +34,7 @@ app.use(cookieParser());
 
 // CORS Setup for Development and Production
 const allowedOrigins = [
-  "https://bright-naiad-c80c24.netlify.app/",
+  "https://blood-front.vercel.app",
   "http://localhost:5173",
 ];
 app.use(
