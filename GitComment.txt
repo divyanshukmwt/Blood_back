@@ -1,0 +1,63 @@
+Subhasish
+
+Open Terminal and do this step
+git clone https://github.com/Sc-Designs/Major_Projecct.git
+
+after that create your own branch with this line
+git switch -C (Your Branch name)
+
+Write your Code on your Desktop
+
+after that
+git add .
+git commit -m "(Checkpoint massages or name)"
+git push -u origin (your Branch name)
+
+ai step ta ami joto khon na bolbo keo korbe na
+git switch main
+git fetch
+git pull
+
+
+
+Suryadip
+
+Open Terminal and do this step
+git clone https://github.com/Sc-Designs/Major_Projecct.git
+
+after that create your own branch with this line
+git switch -C (Your Branch name)
+
+Write your Code on your Desktop
+
+after that
+git add .
+git commit -m "(Checkpoint massages or name)"
+git push -u origin (your Branch name)
+
+ai step ta ami joto khon na bolbo keo korbe na
+git switch main
+git fetch 
+git pull
+
+
+
+Shampa
+
+Open Terminal and do this step
+git clone https://github.com/Sc-Designs/Major_Projecct.git
+
+after that create your own branch with this line
+git switch -C (Your Branch name)
+
+Write your Code on your Desktop
+
+after that
+git add .
+git commit -m "(Checkpoint massages or name)"
+git push -u origin (your Branch name)
+
+ai step ta ami joto khon na bolbo keo korbe na
+git switch main
+git fetch
+git pull
