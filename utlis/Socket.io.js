@@ -23,7 +23,7 @@ const { otpValidation } = require("../soketAllFunctions/OtpValidation");
 const initSocket = (server) => {
   const io = new Server(server, {
     cors: {
-      origin: "https://bright-naiad-c80c24.netlify.app",
+      origin: "https://blood-front.vercel.app",
       methods: ["GET", "POST"],
       credentials: true,
     },
