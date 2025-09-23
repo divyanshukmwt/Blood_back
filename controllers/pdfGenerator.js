@@ -44,7 +44,7 @@ module.exports.pdfGenerator = async (req, res) => {
       color: rgb(0.85, 0.94, 1),
     });
 
-    page.drawText("Blood Hub", {
+    page.drawText("Red Hope", {
       x: width / 2 - 150,
       y: height / 2 - 180,
       size: 100,
