@@ -210,13 +210,13 @@ module.exports.pdfGenerator = async (req, res) => {
     });
 
     // Stamp and Signature
-    page.drawImage(stampImage, { x: 450, y: 30, width: 120, height: 120, opacity: 0.3 });
+    page.drawImage(stampImage, { x: 450, y: 30, width: 120, height: 120, opacity: 0.3, rotate: degrees(35) });
     page.drawImage(signatureImage, {
       x: 450,
       y: 20,
       width: 150,
       height: 60,
-      rotate: degrees(35),
+      rotate: degrees(20),
     });
 
     const pdfBytes = await pdfDoc.save();
