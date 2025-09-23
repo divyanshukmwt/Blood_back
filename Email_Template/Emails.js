@@ -99,7 +99,7 @@ module.exports.registerEmail = (otp) => {
 										<tbody>
 											<tr>
 												<td class="column column-1" width="100%" style="font-weight: 400; text-align: left; padding: 5px 0; vertical-align: top;">
-													<h1 style="margin: 0; color: #000000; direction: ltr; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 38px; font-weight: 600; letter-spacing: 1px; line-height: 120%; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 45.6px;"><em><span class="tinyMce-placeholder" style="word-break: break-word;">Blood_Hub</span></em></h1>
+													<h1 style="margin: 0; color: #000000; direction: ltr; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 38px; font-weight: 600; letter-spacing: 1px; line-height: 120%; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 45.6px;"><em><span class="tinyMce-placeholder" style="word-break: break-word;">Red Hope</span></em></h1>
 												</td>
 											</tr>
 											<tr>
@@ -1553,7 +1553,7 @@ module.exports.ReciventEmail = ({ name, number, type }) => {
 															<td class="pad">
 																<div style="color:#101112;direction:ltr;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:120%;text-align:left;mso-line-height-alt:19.2px;">
 																	<p style="margin: 0; margin-bottom: 16px;">Our team will coordinate with the donor to ensure a smooth and timely process. So, you don't face any problem and smoothly done the work.<br><br>If you have any questions or need further assistance, please feel free to reach out to us at [ Support email-( firefighters4511@gmail.com) ].<br><br>Thank you for using [ <em><strong>Red Hope</strong></em> ] to help save lives. ❤️</p>
-																	<p style="margin: 0;"><strong>Best Regards,</strong><br><strong>Blood_Hub Team</strong></p>
+																	<p style="margin: 0;"><strong>Best Regards,</strong><br><strong>Red Hope Team</strong></p>
 																</div>
 															</td>
 														</tr>
