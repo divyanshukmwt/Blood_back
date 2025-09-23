@@ -210,7 +210,7 @@ module.exports.pdfGenerator = async (req, res) => {
     });
 
     // Stamp and Signature
-    page.drawImage(stampImage, { x: 450, y: 30, width: 120, height: 120, opacity: 0.3, rotate: degrees(35) });
+    page.drawImage(stampImage, { x: 450, y: 30, width: 120, height: 120, opacity: 0.3, });
     page.drawImage(signatureImage, {
       x: 450,
       y: 20,
