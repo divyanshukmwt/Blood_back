@@ -104,11 +104,11 @@ module.exports.registerEmail = (otp) => {
 											</tr>
 											<tr>
 												<td style="padding: 10px; text-align: center; font-family: Arial, sans-serif; font-size: 16px;">
-													<p>Thank you for signing up on <strong>Blood_Hub</strong>! Please verify your email using the OTP below:</p>
+													<p>Thank you for signing up on <strong>Red Hope</strong>! Please verify your email using the OTP below:</p>
 													<p style="font-size: 21px; font-weight: bold;">🔢 Your OTP: [${otp}]</p>
 													<p>This OTP is valid for <strong>[01:00] minutes</strong>. Please do not share it with anyone.</p>
 													<p>If you didn’t request this, please ignore this email.</p>
-													<p>Stay safe and thank you for being a part of <strong>Blood_Hub</strong>! ❤️</p>
+													<p>Stay safe and thank you for being a part of <strong>Red Hope</strong>! ❤️</p>
 												</td>
 											</tr>
 										</tbody>
@@ -238,7 +238,7 @@ module.exports.loginEmail = (otp)=>{
 													<table class="heading_block block-1" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 														<tr>
 															<td class="pad">
-																<h1 style="margin: 0; color: #000000; direction: ltr; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 38px; font-weight: 600; letter-spacing: 1px; line-height: 120%; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 45.6px;"><em><span class="tinyMce-placeholder" style="word-break: break-word;">Blood_Hub</span></em></h1>
+																<h1 style="margin: 0; color: #000000; direction: ltr; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 38px; font-weight: 600; letter-spacing: 1px; line-height: 120%; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 45.6px;"><em><span class="tinyMce-placeholder" style="word-break: break-word;">Red Hope</span></em></h1>
 															</td>
 														</tr>
 													</table>
@@ -262,7 +262,7 @@ module.exports.loginEmail = (otp)=>{
 														<tr>
 															<td class="pad">
 																<div style="color:#101112;direction:ltr;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:120%;text-align:left;mso-line-height-alt:19.2px;">
-																	<p style="margin: 0;">We received a request to log in to your <strong>Blood_Hub</strong> account. Use the OTP below to proceed:</p>
+																	<p style="margin: 0;">We received a request to log in to your <strong>Red Hope</strong> account. Use the OTP below to proceed:</p>
 																</div>
 															</td>
 														</tr>
@@ -460,7 +460,7 @@ module.exports.ReSendOtp = (otp) => {
 													<table class="heading_block block-1" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 														<tr>
 															<td class="pad">
-																<h1 style="margin: 0; color: #000000; direction: ltr; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 38px; font-weight: 700; letter-spacing: 1px; line-height: 120%; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 45.6px;"><em><span class="tinyMce-placeholder" style="word-break: break-word;">Blood_Hub</span></em></h1>
+																<h1 style="margin: 0; color: #000000; direction: ltr; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 38px; font-weight: 700; letter-spacing: 1px; line-height: 120%; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 45.6px;"><em><span class="tinyMce-placeholder" style="word-break: break-word;">Red Hope</span></em></h1>
 															</td>
 														</tr>
 													</table>
@@ -484,7 +484,7 @@ module.exports.ReSendOtp = (otp) => {
 														<tr>
 															<td class="pad">
 																<div style="color:#101112;direction:ltr;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:120%;text-align:left;mso-line-height-alt:19.2px;">
-																	<p style="margin: 0;">You requested a new OTP to verify your <strong>Blood_Hub</strong>&nbsp;account. Use the code below to proceed:</p>
+																	<p style="margin: 0;">You requested a new OTP to verify your <strong>Red Hope</strong>&nbsp;account. Use the code below to proceed:</p>
 																</div>
 															</td>
 														</tr>
@@ -536,7 +536,7 @@ module.exports.ReSendOtp = (otp) => {
 																<div style="color:#101112;direction:ltr;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:120%;text-align:left;mso-line-height-alt:19.2px;">
 																	<p style="margin: 0; margin-bottom: 16px;">This OTP is valid for <strong>[01:00] minutes</strong>. Please do not share it with anyone for security reasons.</p>
 																	<p style="margin: 0; margin-bottom: 16px;">If you didn’t request this, please ignore this email.</p>
-																	<p style="margin: 0;"><strong>Best Regards,</strong><br><strong>Blood_Hub Team</strong></p>
+																	<p style="margin: 0;"><strong>Best Regards,</strong><br><strong>Red Hope Team</strong></p>
 																</div>
 															</td>
 														</tr>
@@ -683,7 +683,7 @@ module.exports.ForgetPassword = ({name,otp}) => {
 													<table class="heading_block block-1" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 														<tr>
 															<td class="pad">
-																<h1 style="margin: 0; color: #000000; direction: ltr; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 38px; font-weight: 700; letter-spacing: normal; line-height: 1.2; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 46px;"><span class="tinyMce-placeholder" style="word-break: break-word;"><em>Blood_Hub</em></span></h1>
+																<h1 style="margin: 0; color: #000000; direction: ltr; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 38px; font-weight: 700; letter-spacing: normal; line-height: 1.2; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 46px;"><span class="tinyMce-placeholder" style="word-break: break-word;"><em>Red Hope</em></span></h1>
 															</td>
 														</tr>
 													</table>
@@ -760,7 +760,7 @@ module.exports.ForgetPassword = ({name,otp}) => {
 														<tr>
 															<td class="pad">
 																<div style="color:#101112;direction:ltr;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:1.2;text-align:left;mso-line-height-alt:19px;">
-																	<p style="margin: 0;"><strong>Best regards,</strong><br><strong>The Blood_Hub Team</strong><br>&nbsp;Support: [firefighter4551@gmail.com]</p>
+																	<p style="margin: 0;"><strong>Best regards,</strong><br><strong>The Red Hope Team</strong><br>&nbsp;Support: [firefighter4551@gmail.com]</p>
 																</div>
 															</td>
 														</tr>
@@ -935,7 +935,7 @@ module.exports.welcomeEmail = ()=>{
 													<table class="heading_block block-1" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 														<tr>
 															<td class="pad">
-																<h1 style="margin: 0; color: #000000; direction: ltr; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 38px; font-weight: 700; letter-spacing: 1px; line-height: 120%; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 45.6px;"><em><span class="tinyMce-placeholder" style="word-break: break-word;">Blood_Hub</span></em></h1>
+																<h1 style="margin: 0; color: #000000; direction: ltr; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 38px; font-weight: 700; letter-spacing: 1px; line-height: 120%; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 45.6px;"><em><span class="tinyMce-placeholder" style="word-break: break-word;">Red Hope</span></em></h1>
 															</td>
 														</tr>
 													</table>
@@ -959,7 +959,7 @@ module.exports.welcomeEmail = ()=>{
 														<tr>
 															<td class="pad">
 																<div style="color:#101112;direction:ltr;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:120%;text-align:left;mso-line-height-alt:19.2px;">
-																	<p style="margin: 0;">Thank you for joining <strong>Blood_Hub</strong> ! 🎉 You are now part of a community that connects blood donors and receivers to help save lives.</p>
+																	<p style="margin: 0;">Thank you for joining <strong>Red Hope</strong> ! 🎉 You are now part of a community that connects blood donors and receivers to help save lives.</p>
 																</div>
 															</td>
 														</tr>
@@ -1064,7 +1064,7 @@ module.exports.welcomeEmail = ()=>{
 															<td class="pad">
 																<div style="color:#101112;direction:ltr;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:120%;text-align:left;mso-line-height-alt:19.2px;">
 																	<p style="margin: 0; margin-bottom: 16px;">If you have any questions, feel free to reach out to us. Together, we can save lives!</p>
-																	<p style="margin: 0;"><strong>Best Regards,</strong><br><strong>Blood_Hub Team</strong></p>
+																	<p style="margin: 0;"><strong>Best Regards,</strong><br><strong>Red Hope Team</strong></p>
 																</div>
 															</td>
 														</tr>
@@ -1208,7 +1208,7 @@ module.exports.DonarEmail = ({ name, number, type }) => {
 													<table class="heading_block block-1" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 														<tr>
 															<td class="pad">
-																<h1 style="margin: 0; color: #000000; direction: ltr; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 38px; font-weight: 700; letter-spacing: normal; line-height: 120%; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 45.6px;"><em>Blood_Hub</em></h1>
+																<h1 style="margin: 0; color: #000000; direction: ltr; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 38px; font-weight: 700; letter-spacing: normal; line-height: 120%; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 45.6px;"><em>Red Hope</em></h1>
 															</td>
 														</tr>
 													</table>
@@ -1309,8 +1309,8 @@ module.exports.DonarEmail = ({ name, number, type }) => {
 														<tr>
 															<td class="pad">
 																<div style="color:#101112;direction:ltr;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:120%;text-align:left;mso-line-height-alt:19.2px;">
-																	<p style="margin: 0; margin-bottom: 16px;">Our team will coordinate with the &nbsp;Receiver<strong> </strong>to ensure a smooth and timely process. So, you don't face any problem and smoothly done the work.<br><br>IIf you encounter any issues or need assistance, feel free to contact us at [ Support email-( firefighters4511@gmail.com) ].<br><br>Thank you for using [ <em><strong>Blood_Hub</strong></em> ] to help save lives. ❤️</p>
-																	<p style="margin: 0;"><strong>Best Regards,</strong><br><strong>Blood_Hub Team</strong></p>
+																	<p style="margin: 0; margin-bottom: 16px;">Our team will coordinate with the &nbsp;Receiver<strong> </strong>to ensure a smooth and timely process. So, you don't face any problem and smoothly done the work.<br><br>IIf you encounter any issues or need assistance, feel free to contact us at [ Support email-( firefighters4511@gmail.com) ].<br><br>Thank you for using [ <em><strong>Red Hope</strong></em> ] to help save lives. ❤️</p>
+																	<p style="margin: 0;"><strong>Best Regards,</strong><br><strong>Red Hope Team</strong></p>
 																</div>
 															</td>
 														</tr>
@@ -1451,7 +1451,7 @@ module.exports.ReciventEmail = ({ name, number, type }) => {
 													<table class="heading_block block-1" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
 														<tr>
 															<td class="pad">
-																<h1 style="margin: 0; color: #000000; direction: ltr; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 38px; font-weight: 700; letter-spacing: 1px; line-height: 120%; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 45.6px;"><em><span class="tinyMce-placeholder" style="word-break: break-word;">Blood_Hub</span></em></h1>
+																<h1 style="margin: 0; color: #000000; direction: ltr; font-family: 'Cabin', Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 38px; font-weight: 700; letter-spacing: 1px; line-height: 120%; text-align: center; margin-top: 0; margin-bottom: 0; mso-line-height-alt: 45.6px;"><em><span class="tinyMce-placeholder" style="word-break: break-word;">Red Hope</span></em></h1>
 															</td>
 														</tr>
 													</table>
@@ -1552,7 +1552,7 @@ module.exports.ReciventEmail = ({ name, number, type }) => {
 														<tr>
 															<td class="pad">
 																<div style="color:#101112;direction:ltr;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:120%;text-align:left;mso-line-height-alt:19.2px;">
-																	<p style="margin: 0; margin-bottom: 16px;">Our team will coordinate with the donor to ensure a smooth and timely process. So, you don't face any problem and smoothly done the work.<br><br>If you have any questions or need further assistance, please feel free to reach out to us at [ Support email-( firefighters4511@gmail.com) ].<br><br>Thank you for using [ <em><strong>Blood_Hub</strong></em> ] to help save lives. ❤️</p>
+																	<p style="margin: 0; margin-bottom: 16px;">Our team will coordinate with the donor to ensure a smooth and timely process. So, you don't face any problem and smoothly done the work.<br><br>If you have any questions or need further assistance, please feel free to reach out to us at [ Support email-( firefighters4511@gmail.com) ].<br><br>Thank you for using [ <em><strong>Red Hope</strong></em> ] to help save lives. ❤️</p>
 																	<p style="margin: 0;"><strong>Best Regards,</strong><br><strong>Blood_Hub Team</strong></p>
 																</div>
 															</td>
