@@ -760,7 +760,7 @@ module.exports.ForgetPassword = ({name,otp}) => {
 														<tr>
 															<td class="pad">
 																<div style="color:#101112;direction:ltr;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:1.2;text-align:left;mso-line-height-alt:19px;">
-																	<p style="margin: 0;"><strong>Best regards,</strong><br><strong>The Red Hope Team</strong><br>&nbsp;Support: [firefighter4551@gmail.com]</p>
+																	<p style="margin: 0;"><strong>Best regards,</strong><br><strong>The Red Hope Team</strong><br>&nbsp;Support: [codxdot@gmail.com]</p>
 																</div>
 															</td>
 														</tr>
@@ -1309,7 +1309,7 @@ module.exports.DonarEmail = ({ name, number, type }) => {
 														<tr>
 															<td class="pad">
 																<div style="color:#101112;direction:ltr;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:120%;text-align:left;mso-line-height-alt:19.2px;">
-																	<p style="margin: 0; margin-bottom: 16px;">Our team will coordinate with the &nbsp;Receiver<strong> </strong>to ensure a smooth and timely process. So, you don't face any problem and smoothly done the work.<br><br>IIf you encounter any issues or need assistance, feel free to contact us at [ Support email-( firefighters4511@gmail.com) ].<br><br>Thank you for using [ <em><strong>Red Hope</strong></em> ] to help save lives. ❤️</p>
+																	<p style="margin: 0; margin-bottom: 16px;">Our team will coordinate with the &nbsp;Receiver<strong> </strong>to ensure a smooth and timely process. So, you don't face any problem and smoothly done the work.<br><br>IIf you encounter any issues or need assistance, feel free to contact us at [ Support email-( codxdot@gmail.com) ].<br><br>Thank you for using [ <em><strong>Red Hope</strong></em> ] to help save lives. ❤️</p>
 																	<p style="margin: 0;"><strong>Best Regards,</strong><br><strong>Red Hope Team</strong></p>
 																</div>
 															</td>
@@ -1552,7 +1552,7 @@ module.exports.ReciventEmail = ({ name, number, type }) => {
 														<tr>
 															<td class="pad">
 																<div style="color:#101112;direction:ltr;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:120%;text-align:left;mso-line-height-alt:19.2px;">
-																	<p style="margin: 0; margin-bottom: 16px;">Our team will coordinate with the donor to ensure a smooth and timely process. So, you don't face any problem and smoothly done the work.<br><br>If you have any questions or need further assistance, please feel free to reach out to us at [ Support email-( firefighters4511@gmail.com) ].<br><br>Thank you for using [ <em><strong>Red Hope</strong></em> ] to help save lives. ❤️</p>
+																	<p style="margin: 0; margin-bottom: 16px;">Our team will coordinate with the donor to ensure a smooth and timely process. So, you don't face any problem and smoothly done the work.<br><br>If you have any questions or need further assistance, please feel free to reach out to us at [ Support email-( codxdot@gmail.com) ].<br><br>Thank you for using [ <em><strong>Red Hope</strong></em> ] to help save lives. ❤️</p>
 																	<p style="margin: 0;"><strong>Best Regards,</strong><br><strong>Red Hope Team</strong></p>
 																</div>
 															</td>
